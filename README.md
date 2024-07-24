@@ -1,6 +1,6 @@
 # Rain Prediction
 
-## Supervisor
+## Supervisor of the Research project -Anwar Ali Sathio 
 
 https://github.com/Anwar-Ali-Sathio
 
